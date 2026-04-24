@@ -73,3 +73,26 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+    def getNombre(self):
+        return set._Nombre
+    
+    def getApellido(self):
+        return set._Apellido
+    
+    def getEdad(self):
+        return set._Edad
+    
+    def getCurso(self):
+        return set._Curso
+    
+    def getAsignatura(self):
+        return set._Asigantura
+    
+    def mostrarpersona(self):
+        print("Nombre: ",self.getNombre())
+        print("Apellido: ",self.getApellido())
+        print("Edad: ",self.getEdad())
+        print("Curso: ",self.getCurso())
+        print("Asignatura: ",self.getaAsigantura())
